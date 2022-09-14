@@ -46,7 +46,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
   - Denver County received 82.8% of the total votes (306,121 votes)
   - Arapahoe County received 6.7% of the total votes (24,771 votes)
 - The largest county turnout for the election was:
-  - Denver County receiving 82.8% of the total votes with 306,121 votes
+  - Denver County receiving 82.8% of the total votes with 306,121 votes.
 - The candidates were:
   - Charles Casper Stockham
   - Diana DeGette
